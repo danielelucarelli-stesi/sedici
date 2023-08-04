@@ -22,3 +22,8 @@
 	path = OCA/pos
 	url = git@github.com:OCA/pos.git
 	branch = 16.0
+
+[submodule "ingegniamo/timesheet_tag"]
+	path = ingegniamo/timesheet_tag
+	url = git@github.com:ingegniamo/timesheet_tag.git
+	branch = 16.0
