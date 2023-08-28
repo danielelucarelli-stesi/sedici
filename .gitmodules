@@ -27,3 +27,8 @@
 	path = ingegniamo/timesheet_tag
 	url = git@github.com:ingegniamo/timesheet_tag.git
 	branch = 16.0
+
+[submodule "ingegniamo/timesheet_popup_save_and_new"]
+	path = ingegniamo/timesheet_popup_save_and_new
+	url = git@github.com:ingegniamo/timesheet_popup_save_and_new.git
+	branch = 16.0
