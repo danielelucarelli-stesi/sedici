@@ -37,3 +37,8 @@
 	path = ingegniamo/website_hide_to_public_user
 	url = git@github.com:ingegniamo/website_hide_to_public_user.git
 	branch = 16.0
+
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
+	branch = 16.0
