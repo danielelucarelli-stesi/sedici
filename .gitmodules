@@ -42,3 +42,8 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 16.0
+
+[submodule "OCA/management-system"]
+	path = OCA/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 16.0
