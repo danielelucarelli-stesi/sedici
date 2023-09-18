@@ -47,3 +47,8 @@
 	path = OCA/management-system
 	url = git@github.com:OCA/management-system.git
 	branch = 16.0
+
+[submodule "ingegniamo/sale_exclude_shipment_to_invoice"]
+	path = ingegniamo/sale_exclude_shipment_to_invoice
+	url = git@github.com:ingegniamo/sale_exclude_shipment_to_invoice.git
+	branch = 16.0
