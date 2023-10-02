@@ -28,6 +28,11 @@
 	url = git@github.com:ingegniamo/timesheet_tag.git
 	branch = 16.0
 
+[submodule "ingegniamo/sale_exclude_shipment_to_invoice"]
+	path = ingegniamo/sale_exclude_shipment_to_invoice
+	url = git@github.com:ingegniamo/sale_exclude_shipment_to_invoice.git
+	branch = 16.0
+
 [submodule "OCA/l10n-italy"]
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
