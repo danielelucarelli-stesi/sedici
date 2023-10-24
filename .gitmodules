@@ -23,16 +23,6 @@
 	url = git@github.com:OCA/pos.git
 	branch = 16.0
 
-[submodule "ingegniamo/timesheet_tag"]
-	path = ingegniamo/timesheet_tag
-	url = git@github.com:ingegniamo/timesheet_tag.git
-	branch = 16.0
-
-[submodule "ingegniamo/sale_exclude_shipment_to_invoice"]
-	path = ingegniamo/sale_exclude_shipment_to_invoice
-	url = git@github.com:ingegniamo/sale_exclude_shipment_to_invoice.git
-	branch = 16.0
-
 [submodule "OCA/l10n-italy"]
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
@@ -61,11 +51,6 @@
 [submodule "OCA/server-ux"]
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
-	branch = 16.0
-
-[submodule "ingegniamo/sh_bom_structure_excel"]
-	path = ingegniamo/sh_bom_structure_excel
-	url = git@github.com:ingegniamo/sh_bom_structure_excel.git
 	branch = 16.0
 
 [submodule "OCA/multi-company"]
