@@ -77,3 +77,8 @@
 	path = ingegniamo/zucchetti_export
 	url = git@github.com:ingegniamo/zucchetti_export.git
 	branch = 16.0
+
+[submodule "ingegniamo/account_move_positional_import"]
+	path = ingegniamo/account_move_positional_import
+	url = git@github.com:ingegniamo/account_move_positional_import.git
+	branch = 16.0
