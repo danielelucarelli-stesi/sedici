@@ -72,5 +72,3 @@
 	path = OCA/hr
 	url = git@github.com:OCA/hr.git
 	branch = 16.0
-	url = git@github.com:ingegniamo/account_move_positional_import.git
-	branch = 16.0
