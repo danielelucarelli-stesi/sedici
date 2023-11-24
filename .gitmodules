@@ -72,3 +72,8 @@
 	path = OCA/hr
 	url = git@github.com:OCA/hr.git
 	branch = 16.0
+
+[submodule "ingegniamo/import-export-integrations"]
+	path = ingegniamo/import-export-integrations
+	url = git@github.com:ingegniamo/import-export-integrations.git
+	branch = 16.0
